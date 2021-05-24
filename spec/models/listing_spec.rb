@@ -1,4 +1,4 @@
-describe Listing do
+  describe Listing do
   describe 'attributes' do
 
     let(:listing) { Listing.new(title: 'Beautiful Apartment on Main Street',
